@@ -1,0 +1,160 @@
+/* ======== TABLET ======== */
+
+@media (max-width: 991px) {
+
+    .navbar-nav {
+        padding-top: 15px;
+    }
+
+    .navbar-nav .nav-link {
+        margin-left: 0;
+        padding: 10px 0 !important;
+    }
+
+    .hero-content h1 {
+        font-size: 60px;
+    }
+
+    .hero-content h2 {
+        font-size: 23px;
+    }
+
+    .code-card {
+        margin-top: 50px;
+    }
+
+    .about-content {
+        padding-left: 0;
+        margin-top: 40px;
+    }
+
+    .section-padding {
+        padding: 80px 0;
+    }
+}
+
+
+/* ========== MOBILE =========== */
+
+@media (max-width: 767px) {
+
+    .section-padding {
+        padding: 70px 0;
+    }
+
+    .hero-section {
+        min-height: auto;
+        padding-top: 130px;
+        padding-bottom: 80px;
+    }
+
+    .hero-content h1 {
+        font-size: 50px;
+    }
+
+    .hero-content h2 {
+        font-size: 21px;
+    }
+
+    .hero-description {
+        font-size: 15px;
+    }
+
+    .hero-buttons .btn {
+        display: block;
+        width: 100%;
+        margin-bottom: 12px;
+    }
+
+    .code-card {
+        margin-top: 45px;
+    }
+
+    .code-content {
+        padding: 20px;
+        font-size: 11px;
+        min-height: 280px;
+    }
+
+    .section-heading h2 {
+        font-size: 32px;
+    }
+
+    .about-box {
+        min-height: 280px;
+    }
+
+    .about-content h3 {
+        font-size: 23px;
+    }
+
+    .about-info {
+        gap: 20px;
+    }
+
+    .education-timeline::before {
+        left: 22px;
+    }
+
+    .education-icon {
+        width: 46px;
+        height: 46px;
+        min-width: 46px;
+        font-size: 16px;
+    }
+
+    .education-content {
+        margin-left: 15px;
+        padding: 22px 20px;
+    }
+
+    .education-content h3 {
+        font-size: 20px;
+    }
+
+    .contact-box h2 {
+        font-size: 32px;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .footer-social {
+        margin-top: 20px;
+    }
+
+    .footer-social a {
+        margin: 0 4px;
+    }
+}
+
+
+/* ========= SMALL MOBILE ======== */
+
+@media (max-width: 480px) {
+
+    .hero-content h1 {
+        font-size: 44px;
+    }
+
+    .hero-content h2 {
+        font-size: 19px;
+    }
+
+    .hero-small-text {
+        letter-spacing: 2px;
+    }
+
+    .code-content {
+        font-size: 9px;
+    }
+
+    .section-heading h2 {
+        font-size: 29px;
+    }
+
+    .about-box {
+        padding: 35px 25px;
+    }
+}
