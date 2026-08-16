@@ -38,7 +38,8 @@ This portfolio is designed to provide a professional online presence and showcas
 ├── IMG/
 │   └── suitcase.png
 │
-└── README.md```
+└── README.md
+```
 
 ## How to Run the Project
 
