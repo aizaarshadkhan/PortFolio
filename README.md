@@ -23,7 +23,7 @@ jQuery
 
 #Project Structure:
 
-Personal-Portfolio/
+Personal-Portfolio
 │
 ├── index.html
 │
