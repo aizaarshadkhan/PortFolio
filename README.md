@@ -39,3 +39,38 @@ This portfolio is designed to provide a professional online presence and showcas
 │   └── suitcase.png
 │
 └── README.md```
+
+## How to Run the Project
+
+There are two ways to view and run this Personal Portfolio website.
+
+### Option 1: Open Using the Deployed Website
+
+The portfolio is deployed online and can be accessed directly using the provided URL.
+
+#### Vercel:
+Open the Vercel deployment URL in any modern web browser.
+
+#### GitHub Pages:
+Alternatively, open the URL provided by GitHub Pages.
+
+No installation or download is required. Simply open the URL in your browser to view the portfolio.
+
+### Option 2: Download and Run Locally
+
+You can also download all the project files and run the portfolio directly on your computer.
+
+#### Steps:
+Download all project files.
+Extract the downloaded ZIP file if necessary.
+Open the project folder.
+Locate the index.html file.
+Double-click index.html.
+The portfolio will open in your default web browser.
+
+You can use any modern browser, such as:
+
+* Google Chrome
+* Microsoft Edge
+* Mozilla Firefox
+* Opera
