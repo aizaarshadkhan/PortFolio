@@ -23,7 +23,7 @@ jQuery
 
 #Project Structure:
 
-Personal-Portfolio
+```Personal-Portfolio
 │
 ├── index.html
 │
@@ -38,4 +38,4 @@ Personal-Portfolio
 ├── IMG/
 │   └── suitcase.png
 │
-└── README.md
+└── README.md```
